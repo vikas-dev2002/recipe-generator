@@ -18,7 +18,7 @@ A modern web application that suggests recipes based on available ingredients, b
 
 ## Live Demo & Repository
 
-- **Application URL**: https://recipe-generator-fefr9tl57-vikas-s-projects-4c095660.vercel.app/
+- **Application URL**: https://recipe-generator-sepia-eta.vercel.app/
 - **GitHub Repository**: https://github.com/vikas-dev2002/recipe-generator
 
 ## Technical Stack
